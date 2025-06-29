@@ -1,2 +1,1 @@
-# Obra-sistema
-Sistema de controlo de tarefas da L. DUMBO 
+# Sistema de Controle de Obras - L. DUMBO
